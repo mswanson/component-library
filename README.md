@@ -1,7 +1,9 @@
 # component-library
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+This repo is for the design team to create display components that use tailwind and can be adapted to be used in the various apps for SkillsEngine.
+
+#### Tailwind
+Tailwind was installed following [this repo](https://github.com/chrism/emberjs-tailwind-purgecss)
 
 ## Prerequisites
 
